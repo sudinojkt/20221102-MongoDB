@@ -1,0 +1,8 @@
+db.company.find({   
+    'founded_year': 2006
+},{
+    'name':1,
+    'founded_year':1,
+});
+
+
